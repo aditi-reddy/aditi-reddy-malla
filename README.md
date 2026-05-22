@@ -1,183 +1,260 @@
+<!-- 3D Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditi%20Malla&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20AI%20Agent%20Builder%20·%20AWS%20Certified&descSize=18&descAlignY=60&descAlign=50&descColor=a5b4fc" />
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditi%20Malla&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AWS%20%7C%20AI%20Agent%20Builder&descAlignY=60&descAlign=50" />
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&random=false&width=550&lines=5%2B+Years+Building+Cloud+Data+Pipelines;AWS+%7C+Snowflake+%7C+Spark+%7C+Airflow+%7C+dbt;Generative+AI+%7C+LLMs+%7C+Multi-Agent+Systems;M.S.+Information+Systems+·+GPA+4.0%2F4.0)](https://git.io/typing-svg)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Engineer+%7C+5%2B+Years+of+Experience;AWS+%7C+Snowflake+%7C+Databricks+%7C+Spark;AI+Agent+Builder+%7C+LLMs+%7C+Generative+AI;M.S.+Information+Systems+%7C+GPA+4.0%2F4.0)](https://git.io/typing-svg)
+<br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Malla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-malla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-relocateai.me-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://relocateai.me)
-[![Email](https://img.shields.io/badge/Email-aditireddy205%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditireddy205@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Lansing%2C%20MI%20%7C%20Open%20to%20Relocate-22c55e?style=for-the-badge)](https://relocateai.me)
+<!-- Contact Badges — Fixed Links -->
+<a href="https://www.linkedin.com/in/aditi-malla" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
+</a>
+&nbsp;
+<a href="https://relocateai.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-relocateai.me-%236366F1.svg?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1" height="28"/>
+</a>
+&nbsp;
+<a href="mailto:aditireddy205@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aditireddy205@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20Lansing%2C%20MI-Open%20to%20Relocate-%2322c55e.svg?style=flat-square&labelColor=166534&color=16a34a" height="28"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aditi-reddy&color=6366f1&style=flat-square&label=Profile+Views" height="28"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 About Me
+## ◈ About Me
 
-```python
-aditi = {
-    "role"        : "Data Engineer | AI Agent Builder",
-    "experience"  : "5+ years",
-    "education"   : "M.S. Information Systems @ Central Michigan University (GPA: 4.0/4.0)",
-    "expertise"   : ["ETL/ELT Pipelines", "Cloud Data Warehousing", "Generative AI", "LLMs"],
-    "cloud"       : ["AWS ☁️", "GCP", "Snowflake ❄️", "Databricks"],
-    "passionate_about" : "Building intelligent data systems that drive real business impact",
-    "open_to"     : "Remote | Onsite | Hybrid — USA"
-}
+```yaml
+Name     : Aditi Malla
+Role     : Data Engineer | AI Agent Builder
+Location : Lansing, MI — Open to Remote / Onsite / Hybrid (USA)
+Education: M.S. Information Systems · Central Michigan University · GPA 4.0/4.0
+
+Expertise:
+  - Cloud Data Pipelines   → AWS (Redshift, Lambda, S3, Glue, EMR) · Snowflake · GCP
+  - Orchestration          → Apache Airflow · dbt · Apache Spark · Kafka
+  - AI & Automation        → Generative AI · LLMs · Multi-Agent Systems
+  - Analytics              → Power BI · Streamlit · Python · Advanced SQL
+
+Currently : Building AI-powered relocation intelligence at relocateai.me
 ```
 
-> *"Data Engineer with 5+ years designing scalable cloud data pipelines on AWS and Snowflake, with a sharp focus on leveraging Generative AI to automate everything from data discovery to agent deployment."*
+<br/>
 
 ---
 
-## 🏆 AWS & Cloud Certifications
+## ◈ Certifications
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|---|---|---|
-| ☁️ **AWS Solutions Architect – Professional** | Amazon Web Services | ✅ Active (Feb 2026) |
-| 🔧 **AWS Data Engineer – Associate** | Amazon Web Services | ✅ Active (Dec 2025) |
-| 🧱 **Databricks Data Engineer Associate** | Databricks | ✅ Active (Nov 2025) |
-| 💙 **Azure Data Engineer Associate (DP-203)** | Microsoft | ✅ Active (Sep 2025) |
-| 📊 **Power BI Data Analyst (PL-300)** | Microsoft | ✅ Active (Jan 2026) |
-| 🤖 **Generative AI with LLMs** | DeepLearning.AI | ✅ Active (Apr 2026) |
+|  | Certification | Issuer | Issued |
+|--|---|---|---|
+| ☁️ | **AWS Solutions Architect – Professional** | Amazon Web Services | Feb 2026 |
+| 🔧 | **AWS Data Engineer – Associate** | Amazon Web Services | Dec 2025 |
+| 🧱 | **Databricks Data Engineer Associate** | Databricks | Nov 2025 |
+| 💙 | **Azure Data Engineer Associate · DP-203** | Microsoft | Sep 2025 |
+| 📊 | **Power BI Data Analyst · PL-300** | Microsoft | Jan 2026 |
+| 🤖 | **Generative AI with LLMs** | DeepLearning.AI | Apr 2026 |
 
 </div>
 
+<br/>
+
 ---
 
-## 🛠️ Tech Stack
+## ◈ Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud & Data Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!-- Using skill-icons for clean 3D-style icon set -->
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,python,postgresql,git,docker,terraform,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
-### 🐍 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,fastapi,pytorch,tensorflow,redis,linux,bash,figma,vercel&theme=dark&perline=10)](https://skillicons.dev)
 
-### ⚙️ Data Engineering Tools
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<br/>
 
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<!-- Additional tool badges — minimal flat style -->
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
 </div>
 
----
-
-## 💼 Professional Experience
-
-### 🎵 Data Engineer Extern — Beats by Dre *(Dec 2025 – May 2026 | Remote)*
-- ⚡ Engineered **serverless AWS pipelines** (Lambda + S3 + Redshift) processing **5M+ daily records** — achieving **99.9% uptime**
-- 🤖 Built **Generative AI agents** that automate data source discovery & dbt schema tests — cutting pipeline dev lifecycle by **35%**
-- 🔒 Designed **Snowflake data warehousing solutions** with full CI/CD & Git workflows — achieving **100% data compliance**
-
-### 🏢 Data Engineer — Tech Mahindra *(Jan 2021 – Jun 2024 | Hyderabad, India)*
-- 🚀 Reduced query processing times by **45%** using Apache Spark on Amazon EMR + Hadoop/Hive for **500K+ daily records**
-- 📉 Eliminated **20+ hours of manual reporting weekly** with high-performance PL/SQL and DDL optimization in Oracle & Redshift
-- ✅ Reduced data engineering tickets by **30%** by implementing self-service data quality frameworks with Python & Airflow
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+## ◈ Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Data Engineer Extern
+**Beats by Dre** · Remote · *Dec 2025 – May 2026*
+
+- Engineered serverless **AWS pipelines** (Lambda · S3 · Redshift) ingesting **5M+ daily records** → **99.9% uptime**
+- Built **Generative AI agents** automating data source discovery & dbt schema tests → **35% faster** dev lifecycle
+- Designed **Snowflake warehousing** with CI/CD & Git workflows → **100% data compliance**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Data Engineer
+**Tech Mahindra** · Hyderabad, India · *Jan 2021 – Jun 2024*
+
+- Optimized **Spark on Amazon EMR** for 500K+ daily records → **45% faster** query times
+- Wrote high-performance **PL/SQL & DDL** in Oracle & Redshift → eliminated **20+ hrs/week** of manual work
+- Deployed **Python + Airflow** data quality frameworks → **30% fewer** support tickets
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ◈ Featured Projects
 
 <div align="center">
 
-[![Relocate.ai](https://github-readme-stats.vercel.app/api/pin/?username=aditi-reddy&repo=relocate-ai-web&theme=tokyonight&border_color=6366F1)](https://relocateai.me)
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🌐 [Relocate.ai](https://relocateai.me)
+**AI Relocation Intelligence Platform**
+
+[![Live](https://img.shields.io/badge/Live-relocateai.me-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://relocateai.me)
+
+AI relocation agent with interactive 3D US map, county-level affordability data for all 50 states, conversational memory, and live mortgage EMI calculator.
+
+`React` · `Three.js` · `Recharts` · `Vite` · `jsPDF`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🔍 [AuditMind](https://github.com/aditi-reddy/auditmind-poc)
+**Automated Fraud Detection**
+
+[![GitHub](https://img.shields.io/badge/View-Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-reddy/auditmind-poc)
+
+Multi-agent fraud detection pipeline using Relational Graph Convolutional Networks. Real-time Streamlit dashboard with **99% detection accuracy**.
+
+`Python` · `PyTorch` · `LLMs` · `Streamlit` · `PostgreSQL`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 💳 [Finance Analytics Pipeline](https://github.com/aditi-reddy/personal-finance-pipeline)
+**ELT Pipeline · Medallion Architecture**
+
+[![GitHub](https://img.shields.io/badge/View-Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-reddy/personal-finance-pipeline)
+
+Automated ELT pipeline consolidating 3 data sources via REST APIs. 10+ KPIs in Power BI. Full CI/CD via GitHub Actions.
+
+`AWS` · `Python` · `dbt` · `Power BI` · `SQL`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🤝 Volunteer Data Analyst
+**Catchafire** · Remote · *Aug 2025 – Present*
+
+[![LinkedIn](https://img.shields.io/badge/View-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-malla)
+
+Partnered with non-profits to clean community impact datasets. Built Power BI dashboards supporting funding requests & resource allocation.
+
+`Python` · `SQL` · `Power BI`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-### 🏠 [Relocate.ai](https://relocateai.me) — AI Relocation Intelligence Platform
-> *Live at **[relocateai.me](https://relocateai.me)***
-
-A CEO-grade AI relocation agent platform that helps users find affordable US counties using:
-- 🗺️ **Interactive 3D US Map** with county-level drilldown across all 50 states
-- 🤖 **Conversational AI Agent** — multi-turn memory, NLP shortcuts, understands natural language
-- 💰 **Mortgage Modeler** — EMI, down payment, rent-vs-buy, compound interest all calculated live
-- 📄 **PDF Assessment Generator** — downloadable relocation report, fully client-side
-
-`React` `Vite` `Three.js` `Recharts` `jsPDF` `Vercel`
+<br/>
 
 ---
 
-### 💳 [Personal Finance Analytics Pipeline](https://github.com/aditi-reddy/personal-finance-pipeline)
-> Automated ELT pipeline with Medallion Architecture
-
-- Built with **Python, SQL, AWS** — consolidates data from 3 sources via REST APIs
-- **Medallion architecture** with dbt automated data quality checks
-- **10+ financial KPIs** visualized in interactive Power BI dashboard
-- Full **CI/CD via GitHub Actions**
-
-`AWS` `Python` `dbt` `Power BI` `SQL` `GitHub Actions`
-
----
-
-### 🔍 [AuditMind — Automated Fraud Detection](https://github.com/aditi-reddy/auditmind-poc)
-> Multi-agent fraud detection with 99% accuracy
-
-- Engineered a **multi-agent fraud detection pipeline** with Python & PostgreSQL
-- Deployed a **Relational Graph Convolutional Network** anomaly detection model
-- Real-time **Streamlit dashboard** — identifies high-risk transactions with **99% accuracy**
-- Full **data lineage documentation** for compliance and auditability
-
-`Python` `PyTorch` `LLMs` `Streamlit` `PostgreSQL` `SQL`
-
----
-
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditi-reddy&show_icons=true&theme=tokyonight&border_color=6366F1&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-reddy&layout=compact&langs_count=8&theme=tokyonight&border_color=6366F1"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aditi-reddy&show_icons=true&theme=github_dark&border_color=30363d&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-reddy&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=818cf8&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=aditi-reddy&theme=github-dark-blue&border=30363d&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=818cf8" alt="GitHub Streak"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-reddy&theme=tokyonight&border=6366F1" alt="GitHub Streak"/>
-</div>
+<br/>
 
 ---
 
-## 🎓 Education
-
-**M.S. Information Systems** — Central Michigan University *(Graduated May 2026)*
-📊 **GPA: 4.0 / 4.0** | Relevant: Cloud Computing · AI & Data Engineering · Distributed Systems · Business Intelligence
-
----
-
-## 🤝 Volunteer Work
-
-**Volunteer Data Analyst — Catchafire** *(Aug 2025 – Present | Remote)*
-- Cleaned community impact datasets for non-profits using **Python & SQL**
-- Designed **Power BI dashboards** to support funding requests and resource allocation
-
----
+## ◈ Education
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Impactful!
+| Degree | Institution | GPA | Graduated |
+|---|---|---|---|
+| **M.S. Information Systems** | Central Michigan University | **4.0 / 4.0** | May 2026 |
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-malla)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditireddy205@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit%20Relocate.ai-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://relocateai.me)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+*Coursework: Cloud Computing · AI & Data Engineering · Distributed Systems · Data Architecture · Business Intelligence*
 
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**— Let's build something impactful together —**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aditi-malla">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:aditireddy205@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://relocateai.me">
+  <img src="https://img.shields.io/badge/Portfolio-relocateai.me-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<!-- 3D Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
