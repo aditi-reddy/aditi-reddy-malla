@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Contact Badges — Fixed Links -->
-<a href="https://www.linkedin.com/in/aditi-malla" target="_blank">
+<a href="https://www.linkedin.com/in/aditi-reddy-malla-275a70222" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
 </a>
 &nbsp;
@@ -185,7 +185,7 @@ Automated ELT pipeline consolidating 3 data sources via REST APIs. 10+ KPIs in P
 ### 🤝 Volunteer Data Analyst
 **Catchafire** · Remote · *Aug 2025 – Present*
 
-[![LinkedIn](https://img.shields.io/badge/View-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-malla)
+[![LinkedIn](https://img.shields.io/badge/View-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-reddy-malla-275a70222)
 
 Partnered with non-profits to clean community impact datasets. Built Power BI dashboards supporting funding requests & resource allocation.
 
@@ -242,7 +242,7 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aditi-malla">
+<a href="https://www.linkedin.com/in/aditi-reddy-malla-275a70222">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -258,3 +258,4 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
 
 <!-- 3D Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
