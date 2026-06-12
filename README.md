@@ -1,14 +1,14 @@
 <!-- 3D Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditi%20Malla&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20AI%20Agent%20Builder%20·%20AWS%20Certified&descSize=18&descAlignY=60&descAlign=50&descColor=a5b4fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditi%20Malla&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20Cloud%20%26%20Pipeline%20Specialist%20·%20AWS%20Certified&descSize=18&descAlignY=60&descAlign=50&descColor=a5b4fc" />
 
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&random=false&width=550&lines=5%2B+Years+Building+Cloud+Data+Pipelines;AWS+%7C+Snowflake+%7C+Spark+%7C+Airflow+%7C+dbt;Generative+AI+%7C+LLMs+%7C+Multi-Agent+Systems;M.S.+Information+Systems+·+GPA+4.0%2F4.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&random=false&width=600&lines=3%2B+Years+Building+Cloud+Data+Pipelines;AWS+%7C+Snowflake+%7C+Spark+%7C+Airflow+%7C+dbt;Informatica+%7C+Python+%7C+SQL+%7C+Power+BI;M.S.+Information+Systems+%C2%B7+GPA+4.0%2F4.0)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Contact Badges — Fixed Links -->
+<!-- Contact Badges -->
 <a href="https://www.linkedin.com/in/aditi-reddy-malla-275a70222" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
 </a>
@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Portfolio-relocateai.me-%236366F1.svg?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1" height="28"/>
 </a>
 &nbsp;
-<a href="mailto:aditireddy205@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aditireddy205@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
+<a href="mailto:aditireddymalla2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aditireddymalla2001@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍%20Lansing%2C%20MI-Open%20to%20Relocate-%2322c55e.svg?style=flat-square&labelColor=166534&color=16a34a" height="28"/>
+<img src="https://img.shields.io/badge/📍%20Mt%20Pleasant%2C%20MI-Open%20to%20Relocate-%2322c55e.svg?style=flat-square&labelColor=166534&color=16a34a" height="28"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=aditi-reddy&color=6366f1&style=flat-square&label=Profile+Views" height="28"/>
 
@@ -35,15 +35,15 @@
 
 ```yaml
 Name     : Aditi Malla
-Role     : Data Engineer | AI Agent Builder
-Location : Lansing, MI — Open to Remote / Onsite / Hybrid (USA)
+Role     : Data Engineer | Cloud & Pipeline Specialist
+Location : Mt Pleasant, MI — Open to Remote / Onsite / Hybrid (USA)
 Education: M.S. Information Systems · Central Michigan University · GPA 4.0/4.0
 
 Expertise:
-  - Cloud Data Pipelines   → AWS (Redshift, Lambda, S3, Glue, EMR) · Snowflake · GCP
-  - Orchestration          → Apache Airflow · dbt · Apache Spark · Kafka
-  - AI & Automation        → Generative AI · LLMs · Multi-Agent Systems
-  - Analytics              → Power BI · Streamlit · Python · Advanced SQL
+  - Cloud Data Pipelines   → AWS (S3, Lambda, Glue, Redshift, EMR, Athena) · Snowflake · GCP
+  - ETL & Orchestration    → Informatica PowerCenter · Apache Airflow · dbt · Apache Spark
+  - Data Platforms         → Databricks · Azure (ADF, ADLS, Synapse) · BigQuery · PostgreSQL
+  - Analytics & BI         → Power BI · Tableau · Streamlit · Python · Advanced SQL
 
 Currently : Building AI-powered relocation intelligence at relocateai.me
 ```
@@ -56,14 +56,14 @@ Currently : Building AI-powered relocation intelligence at relocateai.me
 
 <div align="center">
 
-|  | Certification | Issuer | Issued |
+|  | Certification | Issuer | Status |
 |--|---|---|---|
-| ☁️ | **AWS Solutions Architect – Professional** | Amazon Web Services | Feb 2026 |
-| 🔧 | **AWS Data Engineer – Associate** | Amazon Web Services | Dec 2025 |
-| 🧱 | **Databricks Data Engineer Associate** | Databricks | Nov 2025 |
-| 💙 | **Azure Data Engineer Associate · DP-203** | Microsoft | Sep 2025 |
-| 📊 | **Power BI Data Analyst · PL-300** | Microsoft | Jan 2026 |
-| 🤖 | **Generative AI with LLMs** | DeepLearning.AI | Apr 2026 |
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | ✅ Earned |
+| 📊 | **Data Analytics Essentials** | Cisco | ✅ Earned |
+| 🔍 | **Process Mining Rising Star – Technical & Business** | Various | ✅ Earned |
+| 🏆 | **Lean Six Sigma Green Belt** | Central Michigan University | ✅ Earned |
+| 🌐 | **Google Cloud Professional Data Engineer** | Google Cloud | 🔄 In Progress |
+| 💙 | **Azure Data Engineer Associate** | Microsoft | 🔄 In Progress |
 
 </div>
 
@@ -75,24 +75,22 @@ Currently : Building AI-powered relocation intelligence at relocateai.me
 
 <div align="center">
 
-<!-- Using skill-icons for clean 3D-style icon set -->
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,python,postgresql,git,docker,terraform,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,fastapi,pytorch,tensorflow,redis,linux,bash,figma,vercel&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
 
-<!-- Additional tool badges — minimal flat style -->
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF6D00?style=flat-square&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 </div>
 
@@ -106,22 +104,44 @@ Currently : Building AI-powered relocation intelligence at relocateai.me
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Data Engineer Extern
-**Beats by Dre** · Remote · *Dec 2025 – May 2026*
+### 📊 Data Analyst (Volunteer)
+**Catchafire – NoCo Foodshed Project** · Remote · *Apr 2026 – Present*
 
-- Engineered serverless **AWS pipelines** (Lambda · S3 · Redshift) ingesting **5M+ daily records** → **99.9% uptime**
-- Built **Generative AI agents** automating data source discovery & dbt schema tests → **35% faster** dev lifecycle
-- Designed **Snowflake warehousing** with CI/CD & Git workflows → **100% data compliance**
+- Built interactive **JavaScript + Power BI dashboards** mapping food production and access across **15 counties**
+- Cleaned and integrated **5 datasets** across 3 non-profits using Python and SQL → **40% faster** reporting cycles
+- Supported **2 successful grant submissions** through data-backed funding proposals
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Data Engineer
-**Tech Mahindra** · Hyderabad, India · *Jan 2021 – Jun 2024*
+### 🎵 Data Engineer Extern
+**Beats by Dre** · Remote · *Dec 2025 – May 2026*
 
-- Optimized **Spark on Amazon EMR** for 500K+ daily records → **45% faster** query times
-- Wrote high-performance **PL/SQL & DDL** in Oracle & Redshift → eliminated **20+ hrs/week** of manual work
-- Deployed **Python + Airflow** data quality frameworks → **30% fewer** support tickets
+- Maintained **AWS pipelines** (S3, Lambda, Redshift) + Informatica ETL for **800K+ daily records** → **100% SLA**
+- Cut deployment cycle from **2 weeks to 3 days** by automating dbt tests and Python validation scripts
+- Migrated 3 teams from Excel to **Snowflake + Airflow** dashboards, reducing data lag to near real-time
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Graduate Student Data Analyst
+**CMU Academic Advising** · Mt Pleasant, MI · *Aug 2025 – May 2026*
+
+- Managed **200+ student advising records** per semester with full FERPA compliance
+- Automated scheduling workflows for **30-40 weekly appointments** using Python and Excel VBA
+- Maintained student databases and generated operational metrics for the advising office
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Technical Analyst
+**Tech Mahindra** · Hyderabad, India · *Mar 2023 – Aug 2024*
+
+- Optimized **Spark on EMR** partition strategy for **500K+ daily records** → **50% faster** job runtime
+- Automated **8 ETL reporting pipelines** on Oracle and Redshift → saved **15 hrs/week** of manual work
+- Built **12 Airflow + Informatica** pipelines with automated quality checks → **70% fewer** ad-hoc requests
 
 </td>
 </tr>
@@ -154,13 +174,13 @@ AI relocation agent with interactive 3D US map, county-level affordability data 
 <td width="50%" align="center" valign="top">
 
 ### 🔍 [AuditMind](https://github.com/aditi-reddy/auditmind-poc)
-**Automated Fraud Detection**
+**Multi-Agent Fraud Detection**
 
 [![GitHub](https://img.shields.io/badge/View-Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-reddy/auditmind-poc)
 
-Multi-agent fraud detection pipeline using Relational Graph Convolutional Networks. Real-time Streamlit dashboard with **99% detection accuracy**.
+4-agent fraud detection pipeline on 500K real e-commerce transactions using RGCN with 99% detection accuracy. Real-time Streamlit risk dashboard.
 
-`Python` · `PyTorch` · `LLMs` · `Streamlit` · `PostgreSQL`
+`Python` · `PyTorch Geometric` · `RGCN` · `Streamlit` · `PostgreSQL`
 
 </td>
 
@@ -174,22 +194,22 @@ Multi-agent fraud detection pipeline using Relational Graph Convolutional Networ
 
 [![GitHub](https://img.shields.io/badge/View-Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-reddy/personal-finance-pipeline)
 
-Automated ELT pipeline consolidating 3 data sources via REST APIs. 10+ KPIs in Power BI. Full CI/CD via GitHub Actions.
+End-to-end ELT platform using DBT, Snowflake, Airflow, and AWS S3. Tracks 1,000+ real transactions in a Power BI dashboard with full CI/CD.
 
-`AWS` · `Python` · `dbt` · `Power BI` · `SQL`
+`AWS` · `dbt` · `Snowflake` · `Airflow` · `Power BI`
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-### 🤝 Volunteer Data Analyst
-**Catchafire** · Remote · *Aug 2025 – Present*
+### 🌾 [NoCo Foodshed Dashboard](https://github.com/aditi-reddy/noco-foodshed-dashboard)
+**Community Food Systems Visualization**
 
-[![LinkedIn](https://img.shields.io/badge/View-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-reddy-malla-275a70222)
+[![GitHub](https://img.shields.io/badge/View-Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-reddy/noco-foodshed-dashboard)
 
-Partnered with non-profits to clean community impact datasets. Built Power BI dashboards supporting funding requests & resource allocation.
+Interactive dashboard mapping food production, distribution, and access gaps across 15+ counties for community planners and food access advocates.
 
-`Python` · `SQL` · `Power BI`
+`JavaScript` · `HTML` · `CSS` · `Chart.js`
 
 </td>
 
@@ -224,9 +244,10 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
 
 <div align="center">
 
-| Degree | Institution | GPA | Graduated |
+| Degree | Institution | GPA | Period |
 |---|---|---|---|
-| **M.S. Information Systems** | Central Michigan University | **4.0 / 4.0** | May 2026 |
+| **M.S. Information Systems** | Central Michigan University | **4.0 / 4.0** | Aug 2024 – May 2026 |
+| **B.Tech Electronics & Communications** | JNTUH, Hyderabad | **7.3 / 10.0** | Aug 2019 – May 2023 |
 
 *Coursework: Cloud Computing · AI & Data Engineering · Distributed Systems · Data Architecture · Business Intelligence*
 
@@ -238,7 +259,7 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
 
 <div align="center">
 
-**— Let's build something impactful together —**
+**— Open to Data Engineer roles across the USA —**
 
 <br/>
 
@@ -246,7 +267,7 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:aditireddy205@gmail.com">
+<a href="mailto:aditireddymalla2001@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -258,4 +279,3 @@ Partnered with non-profits to clean community impact datasets. Built Power BI da
 
 <!-- 3D Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
