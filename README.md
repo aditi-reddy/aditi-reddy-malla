@@ -126,7 +126,7 @@ Currently : Building AI-powered relocation intelligence at relocateai.me
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Graduate Student Data Analyst
+### 🎓 Student Data Analyst
 **CMU Academic Advising** · Mt Pleasant, MI · *Aug 2025 – May 2026*
 
 - Managed **200+ student advising records** per semester with full FERPA compliance
