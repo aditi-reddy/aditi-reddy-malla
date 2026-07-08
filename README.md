@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-A database support professional with over two years of combined enterprise and academic experience specializing in database administration, access management, backup & recovery, Oracle, PostgreSQL, and MySQL. A proven record of maintaining data integrity and confidentiality for enterprise platforms and 200+ FERPA-protected user records. Immediately available and authorized to work in the U.S.
+A database support professional with 3+ years of combined enterprise and academic experience specializing in database administration, access management, backup & recovery, Oracle, PostgreSQL, and MySQL. A proven record of maintaining data integrity and confidentiality for enterprise platforms and 200+ FERPA-protected user records. Immediately available and authorized to work in the U.S.
 
 ---
 
