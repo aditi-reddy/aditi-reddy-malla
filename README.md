@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Aditi%20Reddy%20Malla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Database%20Administrator%20%7C%20PostgreSQL%20%7C%20Oracle%2019c%20%7C%20MySQL%20%7C%20AWS%20RDS&descAlignY=58&descSize=16&descColor=94a3b8" width="100"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Aditi%20Reddy%20Malla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Database%20Support%20Administrator%20%7C%20SQL,%20Backup%20%26%20Recovery,%20Access%20Management&descAlignY=58&descSize=16&descColor=94a3b8" width="100"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-reddy-malla-275a70222)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050a14?style=for-the-badge&logo=github&logoColor=3b82f6)](https://aditi-reddy.github.io)
@@ -15,9 +15,7 @@
 
 ## 👋 About Me
 
-I'm a **Database Administrator** with 3+ years of enterprise experience managing **PostgreSQL 14, Oracle 19c, MySQL 8**, and **AWS RDS** at production scale — 500K+ daily records, 50% faster query performance, automated backups saving ~15 hrs/week.
-
-Currently seeking **DBA, Database Support Engineer**, and **Cloud Database Engineer** roles across the U.S.
+A database support professional with over two years of combined enterprise and academic experience specializing in database administration, access management, backup & recovery, Oracle, PostgreSQL, and MySQL. A proven record of maintaining data integrity and confidentiality for enterprise platforms and 200+ FERPA-protected user records. Immediately available and authorized to work in the U.S.
 
 ---
 
