@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Aditi%20Malla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Database%20Administrator%20%7C%20PostgreSQL%20%7C%20Oracle%2019c%20%7C%20MySQL%20%7C%20AWS%20RDS&descAlignY=58&descSize=16&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Aditi%20Reddy%20Malla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Database%20Administrator%20%7C%20PostgreSQL%20%7C%20Oracle%2019c%20%7C%20MySQL%20%7C%20AWS%20RDS&descAlignY=58&descSize=16&descColor=94a3b8" width="100"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-reddy-malla-275a70222)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050a14?style=for-the-badge&logo=github&logoColor=3b82f6)](https://aditi-reddy.github.io)
